@@ -1,0 +1,6 @@
+ab      ; the alphabet
+3       ; 3 states to read, 0, 1, and 2
+1 0     ; 0 on a = 1; 0 on b = 0
+2 0     ; 1 on a = 2; 1 on b = 0
+2 2     ; 2 on a = 2; 2 on b = 2
+2       ; accept state is 2

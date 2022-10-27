@@ -1,0 +1,5 @@
+ab          ; the alphabet
+2           ; 2 states to read, 0 and 1
+1 0         ; state 0 on a = 1; 0 on b = 0
+0 1         ; state 1 on a = 0; 1 on b = 1
+1           ; accept state is 0
